@@ -1,0 +1,4 @@
+@font-face{font-family:"Nanum Gothic";src:url("/static/fonts/NanumGothic-Regular.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Nanum Gothic";src:url("/static/fonts/NanumGothic-Bold.woff2") format("woff2");font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:"Nanum Gothic";src:url("/static/fonts/NanumGothic-ExtraBold.woff2") format("woff2");font-weight:800;font-style:normal;font-display:swap}
+:root{font-family:"Nanum Gothic","Malgun Gothic",sans-serif;color:#192338;background:#f7f8fa;line-height:1.8}body{max-width:900px;margin:auto;padding:32px}section{background:white;padding:24px;margin:20px 0;border:1px solid #e6e9ef;border-radius:12px}img{max-width:100%;height:auto}a{color:#3659e3}

@@ -1,0 +1,4 @@
+Nanum Gothic by NAVER
+https://github.com/google/fonts/tree/47d54ca1ebb14fd864695f1d39dc734f39017c33/ofl/nanumgothic
+License: SIL Open Font License 1.1 (OFL.txt)
+Converted from TTF to WOFF2 without glyph changes.

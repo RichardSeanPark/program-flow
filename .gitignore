@@ -1,0 +1,14 @@
+.build/
+release/
+__pycache__/
+*.pyc
+.venv/
+*.db
+*.db-*
+*.sqlite*
+master.key
+.env
+.env.*
+*.log
+output/
+tmp/
