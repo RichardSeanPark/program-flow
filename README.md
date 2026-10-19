@@ -4,6 +4,7 @@
 
 ## 다운로드
 
+- [처음 사용하는 분을 위한 이미지 설명서입니다.](docs/windows-beginner.md)
 - [Windows 설치 파일 및 소스 다운로드](https://github.com/RichardSeanPark/program-flow/releases/latest)
 - Windows 10/11 64비트용 `ProgramFlow-Setup-0.2.6-x64.exe`를 내려받아 설치하세요.
 - 설치하지 않고 사용하려면 `ProgramFlow-Portable-0.2.6-x64.zip`을 **모두 압축 해제**한 뒤 `ProgramFlow.exe`를 실행하세요. ZIP 안에서 바로 실행하거나 EXE 하나만 복사하지 마세요.
