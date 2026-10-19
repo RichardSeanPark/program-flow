@@ -47,9 +47,15 @@ Windows 10·11 64비트용입니다. Python이나 WSL을 따로 설치할 필요
 
 ## 4. 계좌를 등록하고 두 개의 키를 받습니다.
 
-IP 등록 후 아래의 **계좌 등록하기**를 누릅니다. 계좌 확인과 문자 인증을 진행하고 등록을 마칩니다.
+1. IP 등록 후 아래의 **계좌 등록하기**를 누릅니다.
+2. 사용할 계좌를 선택하고 키움 화면에서 계좌 비밀번호를 확인합니다.
+3. 문자 인증 화면에서 인증번호를 요청합니다.
+4. 휴대전화로 받은 인증번호를 입력해 확인합니다.
+5. 계좌 추가 확인을 마치고 등록된 계좌 행이 나타나는지 확인합니다.
 
 [![계좌를 등록하는 공식 화면입니다.](https://openapi.kiwoom.com/resources/portal/images/temp/temp_Intro0201_07.png?20250515=)](https://openapi.kiwoom.com/resources/portal/images/temp/temp_Intro0201_07.png?20250515=)
+
+[![휴대전화로 받은 인증번호를 입력하는 공식 화면입니다.](https://openapi.kiwoom.com/resources/portal/images/temp/temp_Intro0201_10.png?20250515=)](https://openapi.kiwoom.com/resources/portal/images/temp/temp_Intro0201_10.png?20250515=)
 
 등록된 계좌 행에서 **App Key와 App Secret**을 각각 내려받습니다. 받은 두 텍스트 파일을 열어 값을 확인합니다. 공식 안내상 다운로드는 한 번만 가능하므로 두 파일을 안전하게 보관해야 합니다.
 
